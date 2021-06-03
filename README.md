@@ -11,8 +11,9 @@
   Protected by MIT License 
 
   ## Usage
-  User only have to answer all the question in the from the prompt in the command line then a formatted README.md will be created and place into the dist folder as well as a license.txt if the user wants the project to be protected ; 
-  ![Untitled_ Jun 3, 2021 8_35 PM](https://user-images.githubusercontent.com/78116042/120645826-70737a80-c4ab-11eb-8c7b-b9976da76b02.gif)
+  User only have to answer all the question in the from the prompt in the command line then a formatted README.md will be created and place into the dist folder as well as a    license.txt if the user wants the project to be protected ; 
+![Untitled_ Jun 3, 2021 8_44 PM (1)](https://user-images.githubusercontent.com/78116042/120647313-0bb91f80-c4ad-11eb-99b1-cb2f9bffb29d.gif)
+
 
 
   ## GitHub link

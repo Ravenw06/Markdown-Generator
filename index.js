@@ -7,9 +7,6 @@ const generateMarkdown = require('./Develop/utils/generateMarkdown');
 
 const promptProject = portfolioData => {
 
-    // if (!portfolioData.projects) {
-    //     portfolioData.projects = [];
-    // }
     return inquirer.prompt([
       {
           type: "input", 

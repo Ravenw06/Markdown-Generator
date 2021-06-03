@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README]",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravenw06/Markdown-Generator.git"
+  },
+  "author": "Raven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravenw06/Markdown-Generator/issues"
+  },
+  "homepage": "https://github.com/Ravenw06/Markdown-Generator#readme"
+}
